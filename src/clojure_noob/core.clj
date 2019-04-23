@@ -16,17 +16,18 @@
 
 ;; Tehtävä 3
 (defn first-from-array []
-  (first [1 2 3 4]))
+  (first [4 3 2 1]))
 
 ;; Tehtävä 4
 (def siilien-nimet 
-  ["Aleksi" "Vade"])
+  ["Miku" "Vade"]
+)
 
 ;; Tehtävä 5
 (defn is-it-true [booleanist]
   (if booleanist
-    "SUCCESS!"
-    "FAILURE!"))
+    "VAPPU!"
+    "EILOPU!"))
 
 ;; Tehtävä 6
 (defn multiple-string []

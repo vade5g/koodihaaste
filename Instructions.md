@@ -22,15 +22,15 @@ Kirjoita funktio joka tulostaa: ”Hello and nice to meet you  ’name’ ” El
 
 ##Tehtävä 3: 
 
-Tulosta ensimmäinen numero seuraavasta arraysta [1, 2, 3, 4]
+Tulosta ensimmäinen numero seuraavasta arraysta [4, 3, 2, 1]
 
 ##Tehtävä 4: 
 
-Kiinnitä Siilien Aleksin ja Lindan nimi ”siilien-nimet” arvoon
+Kiinnitä Siilien Vade ja Miku nimi ”siilien-nimet” arvoon
 
 ##Tehtävä 5: 
 
-Kirjoita If-lause joka true arvolla tulostaa SUCCESS! ja false-arvolla FAILURE!
+Kirjoita If-lause joka true arvolla tulostaa VAPPU! ja false-arvolla EILOPU!
 
 ##Tehtävä 6: 
 
@@ -58,7 +58,10 @@ ja false-arvolla
 ##Tehtävä 10: 
 
 Kirjoita funktio joka lisää avaimelle a arvon 1 ja avaimelle b arvon 2
-Tehtävä 11: Kirjoita funktio joka korottaa kaikkia seuraavan vektorin arvoja yhdellä [0 1 2 3 4]
+
+#Tehtävä 11: 
+
+Kirjoita funktio joka korottaa kaikkia seuraavan vektorin arvoja yhdellä [0 1 2 3 4]
 
 ##Tehtävä 12: 
 
